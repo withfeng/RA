@@ -1,0 +1,44 @@
+Node1	Node2	Interaction
+LCK	astemizole	Antagonism
+LCK	bacitracin	Antagonism
+LCK	carbidopa	Antagonism
+LCK	dobutamine	Antagonism
+LCK	doxorubicin	Antagonism
+LCK	ergotamine	Antagonism
+LCK	hexachlorophene	Antagonism
+LCK	levodopa	Antagonism
+LCK	nelfinavir	Antagonism
+LCK	tamoxifen	Antagonism
+LCK	bithionol	Antagonism
+LCK	quercetin	Antagonism
+LCK	tirilazad	Antagonism
+LCK	cisplatin	Antagonism
+LCK	gramicidin	Antagonism
+LCK	ceritinib	Antagonism
+LCK	insulin human	Antagonism
+LCK	tannic acid	Antagonism
+LCK	dacomitinib	Antagonism
+LCK	infigratinib	Antagonism
+LCK	infigratinib	Antagonism
+LCK	dasatinib	
+LCK	erlotinib	
+LCK	gefitinib	
+LCK	imatinib	
+LCK	nilotinib	
+LCK	sorafenib	
+LCK	sunitinib	
+LCK	ruboxistaurin	
+LCK	pazopanib	
+LCK	vandetanib	
+LCK	crizotinib	
+LCK	acetic acid	
+LCK	axitinib	
+LCK	afatinib	
+LCK	bosutinib	
+LCK	tofacitinib	
+LCK	nintedanib	
+LCK	midostaurin	
+LCK	neratinib	
+LCK	quizartinib	
+LCK	fedratinib	
+CD2	alefacept	
